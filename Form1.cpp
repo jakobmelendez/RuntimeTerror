@@ -3,13 +3,6 @@
 #include "AllClass.h"
 using namespace System;
 
-//int main(array<System::String ^> ^args)
-//{
-//    return 0;
-//}
-
-
-
 using namespace System::Windows::Forms;
 
 
